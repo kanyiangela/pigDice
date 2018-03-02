@@ -2,10 +2,12 @@
    text-align: center;
    font-size: 100px;
    font-family: cursive;
-   background-color: cyan;
+   background-color: pink;
  }
 
- body {}
+ body {
+   background-color: grey;
+ }
 
  .player1 {
    float: left;
@@ -14,6 +16,7 @@
    font-weight: bold;
    background-color: black;
    background-image: url("../images/johnnyb.jpeg");
+   image size: 60px;
  }
 
  .player2 {
@@ -21,5 +24,10 @@
    font-size: 50px;
    font-style: italic;
    font-weight: bold;
-   background-image: url("../images/player2.html");
+   background-image: url("../images/bobsburgers.jpg");
+   image size: 60px;
+ }
+
+ .container {
+   text-align: center;
  }
