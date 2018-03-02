@@ -1,10 +1,21 @@
-#show-contact {
-  display: none;
-  margin: 0;
-  padding: 0;
-}
+ h1 {
+   text-align: center;
+   font-size: 100px;
+   font-family: cursive;
+ }
 
-.contact {
-  cursor: pointer;
-  color: #0088cc;
-}
+ body {}
+
+ .player1 {
+   float: left;
+   font-size: 50px;
+   font-style: italic;
+   font-weight: bold;
+ }
+
+ .player2 {
+   float: right;
+   font-size: 50px;
+   font-style: italic;
+   font-weight: bold;
+ }
