@@ -1,0 +1,10 @@
+#show-contact {
+  display: none;
+  margin: 0;
+  padding: 0;
+}
+
+.contact {
+  cursor: pointer;
+  color: #0088cc;
+}
