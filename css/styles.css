@@ -6,28 +6,36 @@
  }
 
  body {
-   background-color: grey;
- }
-
- .player1 {
-   float: left;
-   font-size: 50px;
-   font-style: italic;
-   font-weight: bold;
-   background-color: black;
-   background-image: url("../images/johnnyb.jpeg");
-   image size: 60px;
- }
-
- .player2 {
-   float: right;
-   font-size: 50px;
-   font-style: italic;
-   font-weight: bold;
-   background-image: url("../images/bobsburgers.jpg");
-   image size: 60px;
+   background-color: white;
  }
 
  .container {
+   float: left;
+   font-size: 20px;
+   font-style: italic;
+   font-weight: bold;
+   background-image: url("../images/bobsburgers.jpg");
+   image size: 40px;
+ }
+
+ #head {
+   float: right;
+   font-size: 20px font-style: italic;
+   font-weight: bold;
+ }
+
+ #new {
    text-align: center;
+ }
+
+ #white {
+   background-color: white;
+   text-align: center;
+   height: 100vh;
+ }
+
+ #blue {
+   background-color: blue;
+   text-align: center;
+   height: 100vh;
  }
